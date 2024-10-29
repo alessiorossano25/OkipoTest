@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Questa applicazione è un servizio RESTful sviluppato con Spring Boot che interagisce con l'API di Etherscan per:
+Questa applicazione è un servizio RESTful sviluppato con Spring Boot che interagisce con l'API di Etherscan per :
 - Verificare l'esistenza e il bilancio di un indirizzo Ethereum.
 - Salvare le transazioni dell'indirizzo e visualizzarle tramite paginazione.
 
