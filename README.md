@@ -19,7 +19,7 @@ L'applicazione è composta da:
 - **Utilities**: classe utilizzata per creare i metodi statici che possono essere utilizzati in altre parti del programma.
 
 
-### Endpoint
+## Endpoint
 
 1. **GET /api/checkAddress/{address}**
    - **Descrizione**: Recupera e aggiorna le informazioni relative a un indirizzo Ethereum.
